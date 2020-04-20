@@ -18,7 +18,6 @@
       
       {
         "flight-number": "KM 116",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/al-airmalta.jpg",
         "flight-destination": "LGW",
         "flight-time": "08:40",
         "flight-date": "30/04/20"
