@@ -158,23 +158,7 @@
         "flight-time": "08:40",
         "flight-date": "02/05/20"
       },
-      
-       {
-        "flight-number": "KM 2700",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/al-airmalta.jpg",
-        "flight-destination": "IST",
-        "flight-time": "09:30",
-        "flight-date": "02/05/20"
-      },
-      
-       {
-        "flight-number": "EY 5141",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/Etihad_Airlines.jpg",
-        "flight-destination": "FCO",
-        "flight-time": "07:55",
-        "flight-date": "03/05/20"
-      },
-      
+     
        {
         "flight-number": "KM 828",
         "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/al-airmalta.jpg",
@@ -331,20 +315,6 @@
         "flight-date": "07/05/20"
     },
     {
-        "flight-number": "6E 4102",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/IndiGo 2.png",
-        "flight-destination": "IST",
-        "flight-time": "20:05",
-        "flight-date": "08/05/20"
-    },
-    {
-        "flight-number": "KM 2108",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/al-airmalta.jpg",
-        "flight-destination": "LCA / DXB",
-        "flight-time": "14:55",
-        "flight-date": "08/05/20"
-    },
-    {
         "flight-number": "FR 1407",
         "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/al-ryanair.gif",
         "flight-destination": "PSR",
@@ -363,20 +333,6 @@
         "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/Alitalia_Airlines.jpg",
         "flight-destination": "LIN",
         "flight-time": "12:35",
-        "flight-date": "08/05/20"
-    },
-    {
-        "flight-number": "AZ 7913",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/Alitalia_Airlines.jpg",
-        "flight-destination": "FCO",
-        "flight-time": "07:55",
-        "flight-date": "08/05/20"
-    },
-    {
-        "flight-number": "KM 640",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/al-airmalta.jpg",
-        "flight-destination": "CTA",
-        "flight-time": "05:00",
         "flight-date": "08/05/20"
     },
     {
@@ -478,20 +434,6 @@
         "flight-date": "12/05/20"
     },
     {
-        "flight-number": "W6 1590",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/Wizz_Air.jpg",
-        "flight-destination": "WAW",
-        "flight-time": "10:00",
-        "flight-date": "12/05/20"
-    },
-    {
-        "flight-number": "EY 2961",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/Etihad_Airlines.jpg",
-        "flight-destination": "FCO",
-        "flight-time": "18:35",
-        "flight-date": "13/05/20"
-    },
-    {
         "flight-number": "KM 560",
         "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/al-airmalta.jpg",
         "flight-destination": "SVO",
@@ -518,27 +460,6 @@
         "flight-destination": "MAN",
         "flight-time": "12:55",
         "flight-date": "13/05/20"
-    },
-    {
-        "flight-number": "W6 2496",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/Wizz_Air.jpg",
-        "flight-destination": "BUD",
-        "flight-time": "15:50",
-        "flight-date": "14/05/20"
-    },
-    {
-        "flight-number": "FR 6029",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/al-ryanair.gif",
-        "flight-destination": "ATH",
-        "flight-time": "13:00",
-        "flight-date": "14/05/20"
-    },
-    {
-        "flight-number": "SU 4204",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/aeroflot.gif",
-        "flight-destination": "FCO",
-        "flight-time": "18:35",
-        "flight-date": "14/05/20"
     },
     {
         "flight-number": "AF 3040",
@@ -597,32 +518,11 @@
         "flight-date": "16/05/20"
     },
     {
-        "flight-number": "FR 8274",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/al-ryanair.gif",
-        "flight-destination": "AMM",
-        "flight-time": "06:00",
-        "flight-date": "16/05/20"
-    },
-    {
         "flight-number": "AZ 7919",
         "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/Alitalia_Airlines.jpg",
         "flight-destination": "CTA",
         "flight-time": "05:00",
         "flight-date": "16/05/20"
-    },
-    {
-        "flight-number": "BT 6084",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/air-baltic.gif",
-        "flight-destination": "AMS",
-        "flight-time": "07:20",
-        "flight-date": "16/05/20"
-    },
-    {
-        "flight-number": "KM 624",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/al-airmalta.jpg",
-        "flight-destination": "LIN",
-        "flight-time": "12:35",
-        "flight-date": "17/05/20"
     },
     {
         "flight-number": "SN 4002",
