@@ -44,12 +44,6 @@
         "flight-datetime": "04/05/20 - 07:10",
     },
     {
-        "flight-number": "BT 6081",
-        "flight-destination": "VIE",
-        "flight-time": "07:15",
-        "flight-date": "05/05/20"
-    },
-    {
         "flight-number": "EY 7290",
         "flight-destination": "AMS",
         "flight-datetime": "05/05/20 - 07:20",
@@ -105,7 +99,7 @@
         "flight-number": "TK 1370",
         "flight-destination": "IST",
         "flight-datetime": "12/05/20 - 08:30"
-    }, 
+    } 
       
       
       ]
