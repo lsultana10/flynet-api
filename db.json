@@ -18,6 +18,7 @@
         "flight-destination": "LGW",
         "flight-datetime": "20/04/20 - 08:40",
     },
+      
     {
         "flight-number": "W6 4366",
         "flight-destination": "SOF",
@@ -97,7 +98,7 @@
     {
         "flight-number": "TK 1370",
         "flight-destination": "IST",
-        "flight-datetime": "12/05/20 - 08:30"
+        "flight-datetime": "12/05/20 - 08:30",
     }    
       
       ]
