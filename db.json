@@ -4,52 +4,44 @@
       {
          "flight-number": "FR 7243",
         "flight-destination": "DUB",
-        "flight-time": "15:20",
-        "flight-date": "30/04/20"
-        
+        "flight-datetime": "30/04/20 - 15:20",      
       },
 
       {
          "flight-number": "KM 490",
         "flight-destination": "ZRH",
-        "flight-time": "14:25",
-        "flight-date": "30/04/20"
+        "flight-datetime": "21/04/20 - 14:25",
       },
       
       {
         "flight-number": "KM 116",
         "flight-destination": "LGW",
-        "flight-time": "08:40",
-        "flight-date": "30/04/20"
+        "flight-datetime": "20/04/20 - 08:40",
     },
     {
         "flight-number": "W6 4366",
         "flight-destination": "SOF",
-        "flight-time": "15:55",
-        "flight-date": "30/04/20"
+        "flight-datetime": "15/05/20 - 15:55",
     },
     {
         "flight-number": "LX 4371",
         "flight-destination": "ZRH",
-        "flight-time": "14:25",
-        "flight-date": "31/04/20"
+        "flight-datetime": "20/05/20 - 14:25",
     },
     {
         "flight-number": "KM 612",
         "flight-destination": "FCO",
-        "flight-time": "07:55",
-        "flight-date": "31/04/20"
+        "flight-datetime": "21/05/20 - 07:55",
     },
     {
         "flight-number": "KM 102",
-        "flight-time": "16:55",
-        "flight-date": "31/04/20"
+        "flight-destination": "VIE",
+        "flight-datetime": "20/04/20 - 16:55",
     },      
     {
         "flight-number": "FR 8270",
         "flight-destination": "EXT",
-        "flight-time": "07:10",
-        "flight-date": "04/05/20"
+        "flight-datetime": "04/05/20 - 07:10",
     },
     {
         "flight-number": "BT 6081",
@@ -60,105 +52,60 @@
     {
         "flight-number": "EY 7290",
         "flight-destination": "AMS",
-        "flight-time": "07:20",
-        "flight-date": "05/05/20"
+        "flight-datetime": "05/05/20 - 07:20",
     },
     {
         "flight-number": "AZ 7915",
         "flight-destination": "LIN",
-        "flight-time": "12:35",
-        "flight-date": "08/05/20"
+        "flight-datetime": "08/05/20 - 12:35",
     },
     {
         "flight-number": "AZ 7913",
         "flight-destination": "FCO",
-        "flight-time": "07:55",
-        "flight-date": "08/05/20"
+        "flight-datetime": "21/05/20 - 07:55",
     },
     {
         "flight-number": "KM 640",
         "flight-destination": "CTA",
-        "flight-time": "05:00",
-        "flight-date": "08/05/20"
+        "flight-datetime": "20/05/20 - 05:00",
+    
     },
     {
         "flight-number": "FR 6778",
         "flight-destination": "SCQ",
-        "flight-time": "07:00",
-        "flight-date": "09/05/20"
+        "flight-datetime": "09/05/20 - 07:00",
     },
     {
         "flight-number": "SU 4171",
         "flight-destination": "SVO",
-        "flight-time": "21:30",
-        "flight-date": "09/05/20"
+        "flight-datetime": "09/05/20 - 21:30",
     },
     {
         "flight-number": "EY 7294",
         "flight-destination": "LHR",
-        "flight-time": "07:55",
-        "flight-date": "10/05/20"
+        "flight-datetime": "10/05/20 - 07:55",
     },
     {
         "flight-number": "0B 7278",
         "flight-destination": "FCO",
-        "flight-time": "18:35",
-        "flight-date": "10/05/20"
-    },
-    {
-        "flight-number": "KM 2800",
-        "flight-destination": "FRA",
-        "flight-time": "13:55",
-        "flight-date": "10/05/20"
+        "flight-datetime": "18:35 - 10/05/20",
     },
     {
         "flight-number": "FR 1685",
         "flight-destination": "NYO",
-        "flight-time": "12:00",
-        "flight-date": "10/05/20"
-    },
+        "flight-datetime": "10/05/20 - 12:00",
+    }, 
     {
         "flight-number": "W6 7766",
         "flight-destination": "SKP",
-        "flight-time": "15:55",
-        "flight-date": "11/05/20"
+        "flight-datetime": "11/05/20 - 15:55",
     },
-    {
-        "flight-number": "FR 8852",
-        "flight-destination": "STN",
-        "flight-time": "21:30",
-        "flight-date": "11/05/20"
-    },
-    {
-        "flight-number": "LH 1277",
-        "flight-destination": "FRA",
-        "flight-time": "13:55",
-        "flight-date": "11/05/20"
-    },
-    {
-        "flight-number": "LH 6307",
-        "flight-destination": "MUC",
-        "flight-time": "09:25",
-        "flight-date": "11/05/20"
-    },
-    {
-        "flight-number": "EZY 6498",
-        "flight-destination": "NCL",
-        "flight-time": "12:30",
-        "flight-date": "11/05/20"
-    },
-    {
-        "flight-number": "KL 3398",
-        "flight-destination": "AMS",
-        "flight-time": "07:20",
-        "flight-date": "12/05/20"
-    },
+ 
     {
         "flight-number": "TK 1370",
         "flight-destination": "IST",
-        "flight-time": "09:30",
-        "flight-date": "12/05/20"
-    },  
+        "flight-datetime": "12/05/20 - 08:30"
+    }, 
       
       
       ]
