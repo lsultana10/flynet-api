@@ -1,18 +1,19 @@
 {
-   "book": [
+   "flights": [
 
       {
-         "id": "01",
-         "language": "Java",
-         "edition": "third",
-         "author": "Herbert Schildt"
+         "flightno": "KM300",
+         "destination": "London",
+         "time": "03:40",
+         "image": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/al-airmalta.jpg"
+        
       },
 
       {
-         "id": "07",
-         "language": "C++",
-         "edition": "second",
-         "author": "E.Balagurusamy"
+         "flightno": "KM300",
+         "destination": "London",
+         "time": "03:40",
+         "image": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/Etihad_Airlines.jpg"
       }
 
    ]
