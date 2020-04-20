@@ -1,4 +1,5 @@
-[
+{
+  "flights": [
   {
     "flight-number": "FR 7243",
     "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/al-ryanair.gif",
@@ -444,3 +445,4 @@
     "flight-time": "07:55"
   }
 ]
+}
