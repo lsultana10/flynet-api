@@ -182,26 +182,7 @@
         "flight-destination": "SVO",
         "flight-time": "21:30",
         "flight-date": "13/05/20"
-    },
-    {
-        "flight-number": "SK 1846",
-        "flight-destination": "ARN",
-        "flight-time": "13:55",
-        "flight-date": "13/05/20"
-    },
-    {
-        "flight-number": "AZ 887",
-        "flight-destination": "FCO",
-        "flight-time": "18:35",
-        "flight-date": "13/05/20"
-    },
-    {
-        "flight-number": "AZ 7919",
-        "flight-destination": "CTA",
-        "flight-time": "05:00",
-        "flight-date": "16/05/20"
-    },
-     
+    }    
       
       
       ]
