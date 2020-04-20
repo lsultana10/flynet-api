@@ -158,31 +158,7 @@
         "flight-destination": "IST",
         "flight-time": "09:30",
         "flight-date": "12/05/20"
-    },
-    {
-        "flight-number": "KM 394",
-        "flight-destination": "AMS",
-        "flight-time": "07:20",
-        "flight-date": "12/05/20"
-    },
-    {
-        "flight-number": "W6 1590",
-        "flight-destination": "WAW",
-        "flight-time": "10:00",
-        "flight-date": "12/05/20"
-    },
-    {
-        "flight-number": "EY 2961",
-        "flight-destination": "FCO",
-        "flight-time": "18:35",
-        "flight-date": "13/05/20"
-    },
-    {
-        "flight-number": "KM 560",
-        "flight-destination": "SVO",
-        "flight-time": "21:30",
-        "flight-date": "13/05/20"
-    }    
+    },  
       
       
       ]
