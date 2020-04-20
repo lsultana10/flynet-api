@@ -3,7 +3,6 @@
 
       {
          "flight-number": "FR 7243",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/al-ryanair.gif",
         "flight-destination": "DUB",
         "flight-time": "15:20",
         "flight-date": "30/04/20"
@@ -12,7 +11,6 @@
 
       {
          "flight-number": "KM 490",
-        "flight-image-src": "https://mia-prod-s3-cdn.s3.amazonaws.com/wp-content/uploads/airlines/al-airmalta.jpg",
         "flight-destination": "ZRH",
         "flight-time": "14:25",
         "flight-date": "30/04/20"
